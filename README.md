@@ -65,6 +65,4 @@ Only stage 1 changes to use real imagery — **Chandrayaan-2 OHRC** (ISRO PRADAN
 - Ronneberger et al., *U-Net*, MICCAI, 2015
 - Wang et al., *Image quality assessment: from error visibility to structural similarity* (SSIM), IEEE TIP, 2004
 
-## Author
 
-Karthik K — B.Tech CSE, Mahindra University · [GitHub](https://github.com/plimmgoesbrr)
